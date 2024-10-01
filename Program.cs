@@ -14,6 +14,7 @@ namespace githubtest
         [STAThread]
         static void Main()
         {
+            // 깃허브 학습
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
