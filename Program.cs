@@ -15,7 +15,7 @@ namespace githubtest
         static void Main()
         {
             // 깃허브 학습
-            // 추가
+            // 추가 asiodhasoidhsaoidhosa
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
